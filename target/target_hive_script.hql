@@ -1,0 +1,1 @@
+target load hive script
